@@ -3,7 +3,7 @@
 Hi! I'm Ing Zhen, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](WhatsApp Image 2025-02-25 at 18.59.47_1a081d5f.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
